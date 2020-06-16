@@ -1,3 +1,13 @@
-p {
-  font-size: small;
+.panel-title{
+  border: dotted;
+  padding:5px;
+  margin:10px 0;
+  text-align: center;
+  }
+.container{
+  background-color: honeydew;
+}
+
+.row{
+  border-top: 10px;
 }
